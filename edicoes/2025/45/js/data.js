@@ -12,9 +12,9 @@ resumo: A Comissão Especial de Contratação por Tempo Determinado da Unidade R
 
 ## sepes: SERVIÇO DE PESSOAS
 tipo: lista
-nomeArquivo: "Recadastramento IAMSPE.pdf"
-titulo: Recadastramento IAMSPE
-resumo: O recadastramento do **IAMSPE – Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo** já está disponível e o prazo está chegando ao fim, que é **até 30/11/2025**.
+nomeArquivo: "https://www.iamspe.sp.gov.br/prorrogado-o-recadastramento-iamspe/"
+titulo: PRORROGADO: Prazo da realizar o Recadastramento Iamspe é estendido até 31 de dezembro de 2025
+resumo: O prazo para a realizar o Recadastramento do Instituto de Assistência Médica ao Servidor Público Estadual (Iamspe) foi estendido até o dia 31 de dezembro de 2025. A atualização deve ser feita pelos titulares do convenio, que devem também inserir os dados de seus dependentes, no aplicativo “Iamspe Digital”, no espaço destinado ao serviço. Caso surjam dúvidas sobre o preenchimento dos formulários, estão disponíveis matérias com as principais dúvidas, além de um vídeo tutorial, ambos no site do Iamspe.
 
 
 ## sggd: SECRETARIA DE GESTÃO E GOVERNO DIGITAL
