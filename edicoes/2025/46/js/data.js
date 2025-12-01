@@ -16,6 +16,11 @@ nomeArquivo: "Avaliação Institucional.pdf"
 titulo: Avaliação Institucional
 resumo: Prezados Diretores, convidamos sua equipe a participar da Avaliação Institucional da Unidade Regional de Ensino de Adamantina.
 
+tipo: lista
+nomeArquivo: "edital-diretor-pei-ada-25-11-2025.pdf"
+titulo: EDITAL nº 032/2025 - DIRETOR DE ESCOLA/ DIRETOR ESCOLAR – PROGRAMA DE ENSINO INTEGRAL
+resumo: Dirigente Regional de Ensino da Região de Adamantina, torna pública a relação de vagas de Diretor de Escola/Diretor Escolar, a serem preenchidas mediante designação.
+
 ## escolas-estaduais: ESCOLAS ESTADUAIS
 tipo: card
 nomeImagem: "projeto_de_vida.jpg"
@@ -32,7 +37,7 @@ resumo: No dia 25 de novembro, os alunos do Ensino Técnico em Administração d
 tipo: card
 nomeImagem: "joao bernardi.png"
 nomeArquivo: "Joao Bernardi.pdf"
-titulo: Documentário destaca as trasnformações da escola João Bernardi
+titulo: Documentário destaca as transformações da escola João Bernardi
 resumo: O documentário foi uma ação da Sala de Leitura, coordenada pela professora Inês Furlanetti, com a participação especial e o protagonismo dos estudantes da 2ª série do Ensino Médio.
 
 tipo: card
@@ -89,4 +94,5 @@ tipo: lista
 nomeArquivo: "efape.pdf"
 titulo: 47.2025 Boletim Semanal da Subsecretaria - EFAPE
 resumo: Inscrições para o curso Escola de Gestão 1.0 - 1ª Edição - 2026 Público-alvo: Diretor, Vice-Diretor, CEC, PEC, CGPG, CGP, CGPAC e Professores Categorias A e F. Período de Inscrição se encerra em 01/12.
+
 `;
