@@ -16,7 +16,8 @@ nomeArquivo: "Avaliação Institucional.pdf"
 titulo: Avaliação Institucional
 resumo: Prezados Diretores, convidamos sua equipe a participar da Avaliação Institucional da Unidade Regional de Ensino de Adamantina.
 
-tipo: lista
+tipo: card
+nomeImagem: "edital.png"
 nomeArquivo: "edital-diretor-pei-ada-25-11-2025.pdf"
 titulo: EDITAL nº 032/2025 - DIRETOR DE ESCOLA/ DIRETOR ESCOLAR – PROGRAMA DE ENSINO INTEGRAL
 resumo: Dirigente Regional de Ensino da Região de Adamantina, torna pública a relação de vagas de Diretor de Escola/Diretor Escolar, a serem preenchidas mediante designação.
