@@ -53,6 +53,13 @@ nomeArquivo: "waldomiro.pdf"
 titulo: Dia da Consiência Negra
 resumo:A Escola Estadual Prefeito Waldomiro Sampaio de Souza no dia 19/11/2025 o Dia da Consciência Negra e colocou em evidência “As Mulheres que se destacaram na Educação Brasileira”.
 
+tipo: card
+nomeImagem: "parlamento.png"
+nomeArquivo: "parlamento.pdf"
+titulo: Parlamento Jovem 2025
+resumo:A cidadania é o exercício pleno do cidadão nos direitos, deveres e participação na sociedade. A escola não é a promotora exclusiva da cidadania, mas, sem dúvidas é ela, um dos espaços legítimos para a ação cidadã. Foi justamente essa legitimidade que levou os estudantes Cassiano Campos Moya do 7º ano B, Ana Julia de Souza Lima do 9º ano D e Tayla dos Santos Martins do 8ºano A, a representarem a escola Engº Isac Pereira Garcez e toda comunidade escolar na 12ª Sessão Extraordinária do Parlamento Jovem na Câmara Municipal de Dracena no dia 24 de novembro de 2025.
+
+
 ## sepes: SERVIÇO DE PESSOAS
 tipo: lista
 nomeArquivo: "RESOLUÇÃO SGGD Nº 54.pdf"
